@@ -3,4 +3,8 @@ public with sharing class calculator {
     public static integer doAdd(integer i,integer j){
         return i+j;
     }
+    //adding method to subtract
+    public static integer doSub(integer i,integer j){
+        return i-j;
+    }
 }
