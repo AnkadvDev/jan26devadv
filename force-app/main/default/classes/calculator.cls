@@ -7,4 +7,9 @@ public with sharing class calculator {
     public static integer doSub(integer i,integer j){
         return i-j;
     }
+
+    //adding multiplication method as well
+    public static integer doMul(integer i,integer j){
+        return i*j;
+    }
 }
