@@ -3,17 +3,5 @@ public with sharing class calculator {
     public static integer doAdd(integer i,integer j){
         return i+j;
     }
-    //adding method to subtract
-    public static integer doSub(integer i,integer j){
-        return i-j;
-    }
-
-    //adding multiplication method as well
-    public static integer doMul(integer i,integer j){
-        return i*j;
-    }
-    //adding another method comment for div
-    public static integer doDiv(integer i,integer j){
-        return i/j;
-    }
+   //will add more methods after sometime..!!
 }
