@@ -18,4 +18,7 @@ public with sharing class calculator {
    // our main branch 
 
 
+   public static integer doMul(integer i , integer j){
+    return i*j;
+   }
 }
