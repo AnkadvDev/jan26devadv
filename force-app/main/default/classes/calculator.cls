@@ -12,4 +12,8 @@ public with sharing class calculator {
     public static integer doMul(integer i,integer j){
         return i*j;
     }
+    //adding another method comment for div
+    public static integer doDiv(integer i,integer j){
+        return i/j;
+    }
 }
